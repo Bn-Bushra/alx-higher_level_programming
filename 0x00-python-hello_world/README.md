@@ -12,7 +12,7 @@ Files:
 <a href="#use">How to use project / application of the project.</a>
 <a href="#cred">Credits and Resources and Links </a>.
 <a href="#licen">License(s)</a>
-<a href="#cont"><Contribution</a>
+<a href="#cont">Contribution</a>
 <p><a href="#date"> DATE STARTED </a></p
 
 
@@ -22,5 +22,5 @@ Files:
 <h1> Credits and Resources and Links <h1>
 <h1> License(s) <h1>
 <h1> Tests <h1>
-<h1> Contribution <h1>
+<h1 id="cont"> Contribution <h1>
 <h1> Date <h1>
