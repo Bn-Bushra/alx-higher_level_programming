@@ -8,3 +8,5 @@ def replace_in_list(my_list, idx, element):
         del my_list[idx]
         my_list.insert(idx, element)
         return my_list
+mine = [1, 8, 9, 2, 7, 6]
+print(replace_in_list(mine, -4, 78))
