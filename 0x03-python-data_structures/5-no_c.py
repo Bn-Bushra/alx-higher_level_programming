@@ -4,5 +4,5 @@ def no_c(my_string):
         if i == 'c' or i == 'C':
             pass
         else:
-            print(i, end='')
+            print(i, end='  ')
     return ""
