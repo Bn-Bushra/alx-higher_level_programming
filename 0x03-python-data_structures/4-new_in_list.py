@@ -7,5 +7,5 @@ def new_in_list(my_list, idx, element):
     else:
         new_list = my_list.copy()
         del new_list[idx]
-        new_list.insert(idx, element )
+        new_list.insert(idx, element)
         return new_list
