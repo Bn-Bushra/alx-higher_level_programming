@@ -40,8 +40,8 @@ Files: <code>0-print_list_integer.py</code>
 <h1> How to run </h1>
 <h1> How to use project / application of the project. </h1>
 <h1> Credits and Resources and Links <h1>
-Python Documentation on Lists and Data structures
-<a href="https://www.youtube.com/watch?v=A1HUzrvS-Pw&list=PPSV">Learn to Program 6: Lists - Derek Banas (Youtube)</a>
+<div>Python Documentation on Lists and Data structures</div>
+<div><a href="https://www.youtube.com/watch?v=A1HUzrvS-Pw&list=PPSV">Learn to Program 6: Lists - Derek Banas (Youtube)</a></div>
 <h1> Tests <h1>
 The tests files are contained in the main.py files 
 <h1> Contribution <h1>
