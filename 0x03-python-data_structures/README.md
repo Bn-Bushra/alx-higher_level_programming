@@ -2,25 +2,24 @@
 <h1 class="gap" id="title">0x03. Python - Data Structures: Lists, Tuples</h1>
 Repository: <code>alx-higher_level_programming</code>
 Directory: <code>0x03-python-data_structures</code>
-Files: 
-<ol>
+Files:<ol>
 <li><code>0-print_list_integer.py</code></li>
-<code>1-element_at.py</code></li>
-<code>2-replace_in_list.py</code></li>
-<code>3-print_reversed_list_integer.py</code></li>
-<code>4-new_in_list.py</code></li>
-<code>5-no_c.py</code></li>
-<code>6-print_matrix_integer.py</code></li>
-<code>7-add_tuple.py</code></li>
-<code>8-multiple_returns.py</code></li>
-<code>9-max_integer.py</code></li>
-<code>10-divisible_by_2.py</code></li>
-<code>11-delete_at.py</code></li>
-<code>12-switch.py</code></li>
+<li><code>1-element_at.py</code></li>
+<li><code>2-replace_in_list.py</code></li>
+<li><code>3-print_reversed_list_integer.py</code></li>
+<li><code>4-new_in_list.py</code></li>
+<li><code>5-no_c.py</code></li>
+<li><code>6-print_matrix_integer.py</code></li>
+<li><code>7-add_tuple.py</code></li>
+<li><code>8-multiple_returns.py</code></li>
+<li><code>9-max_integer.py</code></li>
+<li><code>10-divisible_by_2.py</code></li>
+<li><code>11-delete_at.py</code></li>
+<li><code>12-switch.py</code></li>
 <li><code>13-is_palindrome.c</code></li>
 </ol>
 <h1> Description </h1>
-
+About list and sorts.
 <h1> Table of contents </h1>
 <a href="#title">Title</a>
 <a href="#desc">Description</a>
