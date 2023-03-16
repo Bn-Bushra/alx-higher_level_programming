@@ -1,9 +1,9 @@
 # This is directory for Python Data Structures
 
 <h1 class="gap" id="title">0x03. Python - Data Structures: Lists, Tuples</h1>
-Repository: <code>alx-higher_level_programming</code>
-Directory: <code>0x03-python-data_structures</code>
-Files:<ol>
+<div>Repository: <code>alx-higher_level_programming</code></div>
+<div>Directory: <code>0x03-python-data_structures</code></div>
+<div>Files:<ol>
 <li><code>0-print_list_integer.py</code></li>
 <li><code>1-element_at.py</code></li>
 <li><code>2-replace_in_list.py</code></li>
@@ -19,6 +19,7 @@ Files:<ol>
 <li><code>12-switch.py</code></li>
 <li><code>13-is_palindrome.c</code></li>
 </ol>
+</div>
 <h1> Description </h1>
 About list and sorts.
 <h1> Table of contents </h1>
