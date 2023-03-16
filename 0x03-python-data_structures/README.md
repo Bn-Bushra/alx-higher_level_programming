@@ -1,4 +1,5 @@
 # This is directory for Python Data Structures
+
 <h1 class="gap" id="title">0x03. Python - Data Structures: Lists, Tuples</h1>
 Repository: <code>alx-higher_level_programming</code>
 Directory: <code>0x03-python-data_structures</code>
@@ -21,15 +22,16 @@ Files:<ol>
 <h1> Description </h1>
 About list and sorts.
 <h1> Table of contents </h1>
-<a href="#title">Title</a>
-<a href="#desc">Description</a>
-<a href="#toc">Table of contents</a>
-<a href="#run">How to run</a>
-<a href="#use">How to use project / application of the project.</a>
-<a href="#cred">Credits and Resources and Links </a>.
-<a href="#cont"><Contribution</a>
-<p><a href="#date"> DATE STARTED </a></p
-
+<ul>
+<li><a href="#title">Title</a></li>
+<li><a href="#desc">Description</a></li>
+<li><a href="#toc">Table of contents</a></li>
+<li><a href="#run">How to run</a></li>
+<li><a href="#use">How to use project / application of the project.</a></li>
+<li><a href="#cred">Credits and Resources and Links </a>.</li>
+<li><a href="#cont"><Contribution</a></li>
+<li><p><a href="#date"> DATE STARTED </a></p></li>
+</ul>
 <h1> How to run </h1>
 <h1> How to use project / application of the project. </h1>
 <h1> Credits and Resources and Links </h1>
