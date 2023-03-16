@@ -30,16 +30,16 @@ About list and sorts.
 <li><a href="#run">How to run</a></li>
 <li><a href="#use">How to use project / application of the project.</a></li>
 <li><a href="#cred">Credits and Resources and Links </a>.</li>
-<li><a href="#cont"><Contribution</a></li>
-<li><p><a href="#date"> DATE STARTED </a></p></li>
+<li><a href="#cont">Contribution</a></li>
+<li><a href="#date"> DATE STARTED </a></li>
 </ul>
-<h1> How to run </h1>
-<h1> How to use project / application of the project. </h1>
-<h1> Credits and Resources and Links </h1>
+<h1 id="run"> How to run </h1>
+<h1 id="use"> How to use project / application of the project. </h1>
+<h1 id="cred"> Credits and Resources and Links </h1>
 <div>Python Documentation on Lists and Data structures</div>
 <div><a href="https://www.youtube.com/watch?v=A1HUzrvS-Pw&list=PPSV">Learn to Program 6: Lists - Derek Banas (Youtube)</a></div>
 <h1> Tests </h1>
 The tests files are contained in the main.py files 
 <h1> Contribution </h1>
-<h1> Date </h1>
+<h1 id="date"> Date </h1>
 March 2023
